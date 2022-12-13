@@ -1,0 +1,38 @@
+.pagination {
+    margin: 2.5em 0.1em;
+}
+
+.pagination ul {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    list-style: none;
+}
+
+.pagination a:link {
+    text-decoration: none;
+    border: 1px solid #242424;
+    border-radius: 1em;
+    padding: 0.5em;
+    color: #242424;
+}
+
+.pagination a:visited {
+    color: #242424;
+}
+
+.pagination a:hover {
+    opacity: 0.5;
+    background-color: #242424;
+    color: #fff;
+}
+
+.pagination a:focus {
+    background-color: #242424;
+    color: #fff;
+}
+
+.pagination .prev, .pagination .next {
+    background-color: rgb(115, 138, 238);
+}

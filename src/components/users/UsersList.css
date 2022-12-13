@@ -1,0 +1,14 @@
+.usersList {
+    padding: 0 0.5em;
+}
+
+.usersListCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.users {
+    text-align: center;
+}

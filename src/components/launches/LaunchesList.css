@@ -1,0 +1,14 @@
+.launchesList {
+    padding: 0 0.5em;
+}
+
+.launchesListCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.l {
+    text-align: center;
+}

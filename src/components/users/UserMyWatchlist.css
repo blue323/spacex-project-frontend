@@ -1,0 +1,27 @@
+.userw-error {
+    text-align: center;
+}
+
+.userW {
+    text-align: center;
+    border: 1px solid rgb(115, 138, 238);
+    padding: 0 0.5em;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+.userW button {
+    margin: 2em 0;
+    color: #fff;
+    background-color: #242424;
+    border: 1px solid #242424;
+    padding: 0.5em 1em;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.userW button:hover {
+    color: #242424;
+    background-color: #fff;
+}
